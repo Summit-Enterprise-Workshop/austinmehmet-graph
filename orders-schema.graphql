@@ -4,6 +4,7 @@ extend schema
       "@key",
       "@tag",
       "@shareable"
+      "@authenticated"
     ]
   )
 
